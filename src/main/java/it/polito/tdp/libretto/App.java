@@ -23,6 +23,7 @@ public class App extends Application {
     	stage.setScene(scene);
         stage.show();
     }
+    //Commento
 
     public static void main(String[] args) {
         launch();
